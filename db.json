@@ -5,14 +5,16 @@
       "category": "general",
       "difficulty": "easy",
       "no_of_question": "3",
-      "id": 1
+      "id": 1,
+      "que":"who can fly??"
     },
     {
       "username": "Yogita",
       "category": "geography",
       "difficulty": "hard",
       "no_of_question": "4",
-      "id": 2
+      "id": 2,
+      "que":"who can swim??"
     }
   ]
 }
