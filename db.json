@@ -1,0 +1,18 @@
+{
+  "quiz": [
+    {
+      "username": "rani",
+      "category": "general",
+      "difficulty": "easy",
+      "no_of_question": "3",
+      "id": 1
+    },
+    {
+      "username": "Yogita",
+      "category": "geography",
+      "difficulty": "hard",
+      "no_of_question": "4",
+      "id": 2
+    }
+  ]
+}
